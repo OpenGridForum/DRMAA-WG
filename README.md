@@ -1,2 +1,2 @@
 # DRMAA-WG
-Distributed Resource Management Application API Workign Group
+Distributed Resource Management Application API Working Group
